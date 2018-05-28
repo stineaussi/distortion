@@ -23,3 +23,9 @@ The data refreshes every 10 seconds, so if you caould set of the service to fetc
  
 ## Hand in
 Hand-in on Fronter before 23:59 Sunday
+
+### Hints & Suggestions
+With new data every 10 seconds, can you come up with a way of showing the changes?
+
+ - You could simply log the information on the screen (good first step)
+ - But, how a bout an element that animates to a new state whenever there's new data?
