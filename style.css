@@ -1,0 +1,322 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #3a3a3a;
+}
+
+h1{
+    text-align: center;
+    margin-top: 120px;
+    z-index: 2;
+}
+
+.beer{
+    width: 160px;
+    height: 250px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-image: url(beer.png);
+    margin-left: 43%;
+    margin-top: 20%;
+}
+
+.bi{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 500px;
+}
+
+.bi2{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 300px;
+    top: 600px;
+} 
+.bi3{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 800px;
+    top: 400px;
+} 
+.bi4{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 400px;
+    top: 600px;
+}
+.bi5{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 150px;
+    top: 650px;
+} 
+.bi6{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 800px;
+    top: 650px;
+}
+.bi7{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 500px;
+    top: 650px;
+}
+.bi8{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 900px;
+    top: 300px;
+}
+.bi9{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 1200px;
+    top: 250px;
+}
+.bi10{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 1200px;
+    top: 650px;
+}
+.bi11{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 1200px;
+    top: 100px;
+}
+.bi12{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.bi13{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 200px;
+    top: 350px;
+}
+.bi14{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 300px;
+    top: 300px;
+}
+.bi15{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 400px;
+    top: 150px;
+}
+.bi16{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 700px;
+    top: 100px;
+}
+.bi17{ 
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 850px;
+    top: 200px;
+}
+.bi18{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 1100px;
+    top: 500px;
+}
+.bi19{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 50px;
+    top: 350px;
+}
+.bi20{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 700px;
+    top: 550px;
+}
+.bi21{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 1110px;
+    top: 250px;
+}
+.bi22{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 350px;
+    top: 450px;
+}
+.bi23{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+.bi24{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 30px;
+    top: 500px;
+}
+.bi25{
+    display: none;
+    width: 100px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-image: url(bi.png);
+    background-size: 80px;
+    margin: 5px;
+    position: absolute;
+    left: 400px;
+    top: 20px;
+}
